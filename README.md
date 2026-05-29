@@ -113,7 +113,7 @@ finally:
 ```
 ## OUTPUT
 
-<img width="514" height="442" alt="image" src="https://github.com/user-attachments/assets/aae9a4a3-0a3f-4c00-a37c-5dbdacfe5c1c" />
+<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/ad7a0ae2-ddfd-439e-80eb-99d746516c76" />
 
 ## RESULT
 Thus, real-time object detection using the YOLOv4 algorithm was successfully implemented using Python and OpenCV. The system was able to detect and classify multiple objects from the webcam feed with bounding boxes and confidence scores in real-time.
